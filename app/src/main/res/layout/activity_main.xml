@@ -14,8 +14,8 @@
         android:layout_alignParentTop="true"
         android:layout_marginTop="21dp"
         android:layout_toStartOf="@+id/dieImage"
-        android:text="Your score: 0"
-        android:textSize="20sp"
+        android:text="0"
+        android:textSize="50sp"
         android:textStyle="bold" />
 
     <TextView
